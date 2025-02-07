@@ -1,7 +1,5 @@
 # InterpretDecisionTree-for-Sentiment-Classification-Using-Important-Features
 
-# Sentiment Classification with Decision Tree
-
 ## Project Overview
 
 This mini-project aims to interpret the decision tree used for sentiment classification of tweets by extracting important features. The goal is to identify key features among a large set of features, interpret the role of these features in determining sentiment (positive/negative), and compare them across different folds in a k-fold cross-validation.
